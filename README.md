@@ -7,13 +7,22 @@
     <td width='40%' >
  &nbsp;
         
-<a href="https://github.com/devxb/gitanimals">
+  <a href="https://github.com/devxb/gitanimals">
         <img
           src="https://render.gitanimals.org/lines/snakechickensoup?pet-id=590879098924628271&contribution-view=false"
           width="600"
-          height="200"
+          height="100"
         />
-      </a>
- </td>
+        <img
+          src="https://render.gitanimals.org/lines/snakechickensoup?pet-id=591135254825858009&contribution-view=false"
+          width="600"
+          height="100"
+        />  
+  </a>
+</td>
 
 </table>
+
+
+
+  
